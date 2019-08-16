@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>log4qt.conf</file>
+    </qresource>
+</RCC>
